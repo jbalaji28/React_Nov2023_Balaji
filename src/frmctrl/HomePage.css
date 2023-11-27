@@ -1,0 +1,42 @@
+body.bb{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('https://a-static.besthdwallpaper.com/beautiful-model-kendall-jenner-s-look-with-long-dark-hair-wallpaper-1920x1080-111029_48.jpg') ;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+  }
+.hi{
+    height: 80vh;
+}
+
+.site-footer {
+    background-color:black; 
+    color: #fff;
+    height:60px;
+    text-align: center;
+}
+
+.social-icons a {
+    font-size: 24px;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.text-white:hover{
+    color:rgb(139, 0, 90);
+}
+
+.text-white1:hover{
+    color:rgb(0, 102, 255);
+}
+
+.text-white2:hover{
+    color:red;
+}
+
+.text-white3:hover{
+    color:green;
+}
